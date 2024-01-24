@@ -1,0 +1,71 @@
+/* nav */
+.airbnb{
+  height: 70px;
+  display: flex;
+  padding: 20px 36px;
+  box-shadow: 0px 3px 7px rgb(0,0,0,0.1);
+}
+
+
+.airbnb img{
+  width: 9.375rem;
+  height: 3.125rem;
+}
+
+/* img gallery */
+.gallery img{
+  display: flex;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.gallery-text{
+  padding: 20px;
+
+}
+
+/* Card */
+.card{
+  padding: 20px;
+  display: flex;
+}
+
+.content{
+  /* display: flex; */
+  padding: 2px;
+  margin-left: 30px; ;
+
+  /* box-shadow: 1px 2px 1px 5px gray ; */
+}
+
+.card-img{
+width: 200px;
+height: 70%;
+border-radius: 10px;
+}
+
+.star{
+  width: 12px;
+}
+
+.yemi{
+  display: flex;
+  color:rgb(11, 12, 16);
+  padding: 20px;
+  
+  
+}
+
+.yemi-img{
+  width: 300px;
+  height: 150px;
+  background-color: aquamarine;
+}
+
+.yem-content{
+  padding: 2px;
+  margin-left: 30px;
+  background-color: bisque;
+}
